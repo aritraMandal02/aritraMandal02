@@ -1,6 +1,6 @@
 ### Hi there, I'm Aritra -aka aritraMandal02👋 
 
-## I'm a Student!!
+## I'm a Student, currently studying Mechanical Engineering!!
 
 - 🌱 I’m currently learning various things in programming
 - 👯 I’m looking to collaborate with other content creators
