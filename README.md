@@ -4,3 +4,11 @@
 
 - 🌱 I’m currently learning various things in programming
 - 👨🏽‍💻 I love specially to code in Python
+
+## I'm Interested in 
+- Data Science
+- Machine Learning
+- Flutter
+- Flask
+
+# I do not code to get a job. This is my hobby 😉.
