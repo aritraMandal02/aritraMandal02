@@ -11,4 +11,4 @@
 - Flutter
 - Flask
 
-#### I do not code just to get a job. This is my hobby 😉.
+#### Coding is my hobby 😉.
