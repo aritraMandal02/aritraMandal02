@@ -2,8 +2,8 @@
 
 ## I'm a Student, currently studying Mechanical Engineering in National Institute of Technology, Durgapur.
 
-- 🌱 I’m always learning various things in programming
-- 👨🏽‍💻 I skilled in Python
+- 🌱 I'm always learning various things in programming
+- 👨🏽‍💻 I'm skilled in Python
 
 ## I'm Interested in 
 - Data Science
