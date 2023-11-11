@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Aritra Mandal</h1>
 <h2 align="left">A passionate Python developer and ML Enthusiast</h2>
 <h3>currently studying Mechanical Engineering in National Institute of Technology, Durgapur | 2020 - '24</h3>
+![giphy (1)](https://github.com/aritraMandal02/aritraMandal02/assets/87606712/785ae32f-b659-4192-914b-28a2efc970f7)
+![12eca-machine-learning](https://github.com/aritraMandal02/aritraMandal02/assets/87606712/901feb6a-2f2d-4f73-8590-8aee7a14395a)
+![giphy](https://github.com/aritraMandal02/aritraMandal02/assets/87606712/ede8b0f9-081f-4184-8552-8de8d7c7846f)
 
 - 🌱 I’m currently learning **more about Machine Learning and Artificial Intelligence**
 
@@ -8,7 +11,7 @@
 
 - 📫 How to reach me **aritra.mandal2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GieDlbgi22G7oR4eB66zknDB98ThsXIo/view?usp=sharing](https://drive.google.com/file/d/1GieDlbgi22G7oR4eB66zknDB98ThsXIo/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GieDlbgi22G7oR4eB66zknDB98ThsXIo/view?usp=sharing)
 
 - ⚡ Fun fact **Coding is my hobby.😉**
 
