@@ -5,7 +5,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/785ae32f-b659-4192-914b-28a2efc970f7" width="50%"/> 
+    <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/785ae32f-b659-4192-914b-28a2efc970f7" width="25%"/> 
   </div>
   <div class="column">
     <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/901feb6a-2f2d-4f73-8590-8aee7a14395a" width="50%"/>
