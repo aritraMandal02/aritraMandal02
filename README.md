@@ -4,10 +4,10 @@
 <!-- https://github.com/aritraMandal02/aritraMandal02/assets/87606712/5ae29ba3-df4a-40bb-946e-e75543184aa0 -->
 
 <div class="row">
-  <div class="column" style="float:left">
+  <div class="column" style="float:left, width:50%">
     <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/785ae32f-b659-4192-914b-28a2efc970f7"/> 
   </div>
-  <div class="column" style="float:left">
+  <div class="column" style="float:left, width:50%">
     <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/901feb6a-2f2d-4f73-8590-8aee7a14395a"/>
   </div>
 </div>
