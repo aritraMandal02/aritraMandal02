@@ -4,7 +4,7 @@
 <h3>currently studying Mechanical Engineering in National Institute of Technology, Durgapur | 2020 - '24</h3>
 
 <div>
-  <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/5ae29ba3-df4a-40bb-946e-e75543184aa0" width="40%" align="right"/>
+  <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/5ae29ba3-df4a-40bb-946e-e75543184aa0" width="50%" align="right"/>
   
   - 🌱 I’m currently learning **more about Machine Learning and Artificial Intelligence**
   
