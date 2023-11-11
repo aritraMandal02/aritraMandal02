@@ -14,7 +14,7 @@
   
   - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GieDlbgi22G7oR4eB66zknDB98ThsXIo/view?usp=sharing)
   
-  - ⚡ Fun fact **Coding is my hobby.😉**
+  - ⚡ Fun fact **Coding is my hobby😉**
 </div>
 
 </br>
