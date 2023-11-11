@@ -4,7 +4,7 @@
 
 <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/901feb6a-2f2d-4f73-8590-8aee7a14395a" width="50%"/></br>
 
-<img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/5ae29ba3-df4a-40bb-946e-e75543184aa0" align="right"/>
+<img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/5ae29ba3-df4a-40bb-946e-e75543184aa0" width="50%" align="right"/>
 
 - 🌱 I’m currently learning **more about Machine Learning and Artificial Intelligence**
 
