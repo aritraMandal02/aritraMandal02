@@ -1,16 +1,3 @@
-<style>
-  .column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-  }
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-</style>
-
 <h1 align="left">Hi 👋, I'm Aritra Mandal</h1>
 <h2 align="left">A passionate Python developer and ML Enthusiast</h2>
 <h3>currently studying Mechanical Engineering in National Institute of Technology, Durgapur | 2020 - '24</h3>
@@ -18,10 +5,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/785ae32f-b659-4192-914b-28a2efc970f7"/> 
+    <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/785ae32f-b659-4192-914b-28a2efc970f7" width="50%"/> 
   </div>
   <div class="column">
-    <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/901feb6a-2f2d-4f73-8590-8aee7a14395a"/>
+    <img src="https://github.com/aritraMandal02/aritraMandal02/assets/87606712/901feb6a-2f2d-4f73-8590-8aee7a14395a" width="50%"/>
   </div>
 </div>
 
