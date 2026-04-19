@@ -17,11 +17,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aritra002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra002" height="30" width="40" /></a>
-<a href="https://twitter.com/aritramandal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritramandal02" height="30" width="40" /></a>
-<a href="https://fb.com/aritramandal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritramandal02" height="30" width="40" /></a>
-<a href="https://discord.gg/aritra_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aritra_002" height="30" width="40" /></a>
+<div class="row">
+  <div class="col">
+<a href="https://linkedin.com/in/aritra002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra002" height="30" width="40" /></a></div>
+<div class="col"><a href="https://twitter.com/aritramandal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritramandal02" height="30" width="40" /></a></div>
+<div class="col"><a href="https://fb.com/aritramandal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritramandal02" height="30" width="40" /></a></div>
+<div class="col"><a href="https://discord.gg/aritra_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aritra_002" height="30" width="40" /></a></div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
